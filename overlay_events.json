@@ -1,0 +1,24 @@
+{
+  "keyword_hits": [
+    {
+      "start_s": 0.84,
+      "duration_s": 2.0,
+      "text": "Agente IA"
+    },
+    {
+      "start_s": 47.14,
+      "duration_s": 2.0,
+      "text": "Gemini"
+    }
+  ],
+  "sticker_moments": [
+    {
+      "start_s": 0.84,
+      "duration_s": 3.0,
+      "sticker_id": "robot-pixel",
+      "file": "robot-pixel.png",
+      "size": 95,
+      "position": "bottom-center"
+    }
+  ]
+}

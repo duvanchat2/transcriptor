@@ -1,0 +1,21 @@
+{
+  "sources": {
+    "videoprueba": "C:/Users/duvan/OneDrive/Documentos/transcriptor/videos_editar/videoprueba.mp4"
+  },
+  "grade": null,
+  "ranges": [
+    {"source": "videoprueba", "start": 0.62,  "end": 2.58,  "note": "Hook: Tu agente ya está mintiendo."},
+    {"source": "videoprueba", "start": 6.14,  "end": 14.18, "note": "El problema nunca fue... ingeniero senior,"},
+    {"source": "videoprueba", "start": 16.06, "end": 17.46, "note": "take limpio: Pero nadie se los dice."},
+    {"source": "videoprueba", "start": 21.06, "end": 23.70, "note": "take limpio: Los entrena para complacerte."},
+    {"source": "videoprueba", "start": 24.38, "end": 25.72, "note": "Y complacerte"},
+    {"source": "videoprueba", "start": 27.96, "end": 29.44, "note": "no es lo mismo que ser útil."},
+    {"source": "videoprueba", "start": 30.36, "end": 32.48, "note": "Y eso se arregla con un solo archivo."},
+    {"source": "videoprueba", "start": 34.92, "end": 37.84, "note": "Se llama AgentMD, un archivo de texto"},
+    {"source": "videoprueba", "start": 43.88, "end": 52.40, "note": "que sueltas en cualquier proyecto..."},
+    {"source": "videoprueba", "start": 52.85, "end": 67.93, "note": "dejan de refactorizar... Sin pagar nada."},
+    {"source": "videoprueba", "start": 69.73, "end": 79.45, "note": "Y aquí está algo que nadie menciona..."},
+    {"source": "videoprueba", "start": 82.04, "end": 84.20, "note": "Si quieres tener esta herramienta"},
+    {"source": "videoprueba", "start": 89.40, "end": 95.44, "note": "que aprendan a la vez que construyen... compartir el vídeo."}
+  ]
+}
