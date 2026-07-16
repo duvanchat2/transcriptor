@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.tmp
+*.log
+edit/state_*.json
+edit/base_*.mp4
+edit/transcripts/*.json
+edit/clips_hf/*.webm
+videos_editar/test.mp4
